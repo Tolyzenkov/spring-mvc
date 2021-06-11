@@ -1,9 +1,5 @@
 package web.model;
 
-import web.controller.CarController;
-
-import java.util.ArrayList;
-
 public class Car {
     private long id;
     private String mark;
